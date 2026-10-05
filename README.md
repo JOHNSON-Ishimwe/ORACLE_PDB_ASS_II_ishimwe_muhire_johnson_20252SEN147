@@ -16,6 +16,7 @@ This repository contains the required execution evidence for creating, managing,
 
 ## Challenges 
 *  Ensuring the temporary PDB was closed before executing the DROP command. Resolved by verifying the open_mode in show pdbs
+*  Oracle Database 21c was not able to be installed in my pc but now it is fixed
 
 ## Submission Detai
 * **PDB Name Created:** is_pdb_20252SEN147
